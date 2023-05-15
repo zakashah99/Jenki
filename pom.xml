@@ -12,6 +12,7 @@
 	<artifactId>Jenki</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SpringFomApp</name>
+	<packaging>war</packaging>
 	<description>Demo project Jenki</description>
 	<properties>
 		<java.version>17</java.version>
